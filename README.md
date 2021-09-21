@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inSane510
 - 👀 I’m interested in making games/fun things.
-- 🌱 I’m currently learning Unreal Engine 4 with C++.
+- 🌱 I’m currently learning C++, Lua.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.
 
