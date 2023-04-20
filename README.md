@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @inSane510
-- 👀 I’m interested in games, weightlifting, and programming :0.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in games, weightlifting, and programming.
+- 🌱 I’m currently learning C++, Lua.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: on Instagram @hey_zeus510.
+- 📫 How to reach me
 
 <!---
 inSane510/inSane510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
